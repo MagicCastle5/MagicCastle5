@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Interesting Projects**
 
-- 🌱 I’m currently learning **Python, HTML**
+- 🌱 I’m currently learning **Python, HTML, CSS**
 
 - 📫 How to reach me **magiccastle2006@gmail.com**
 
