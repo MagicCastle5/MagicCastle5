@@ -24,7 +24,6 @@
 <a href="https://www.linkedin.com/in/magic-castle-486921265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Magic Castle" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100092097573618" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Magica Castlela" height="30" width="40" /></a>
 <a href="https://www.instagram.com/magiccastle05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="magiccastle05" height="30" width="40" /></a>
-  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
