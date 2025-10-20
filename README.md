@@ -1,7 +1,7 @@
 
 <img src="https://images.unsplash.com/photo-1624953587687-daf255b6b80a?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cHl0aG9uJTIwcHJvZ3JhbW1pbmd8ZW58MHx8MHx8fDA%3D" width="15000" height="200">
 
-<h1 align="center">Hi 👋, I'm Magic Castle </h1>
+<h1 align="center">Hi 👋, I'm Sanuli Limansa </h1>
 <h3 align="center">A beginner developer with a great enthusiasm </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MagicCastle5&label=Profile%20views&color=0e75b6&style=flat" alt="MagicCastle5" /> </p>
